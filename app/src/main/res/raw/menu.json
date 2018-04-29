@@ -1,5 +1,5 @@
 {
-	"version": 2018032101,
+	"version": 2018042900,
 	"schedules": [
 		{
 			"version": 2017041700,
@@ -636,6 +636,7 @@
 			"start": "2018-06-28",
 			"end": "2018-07-01",
 			"metadata": {
+				"icon": "https://passageenseine.fr/logo.png",
 				"links": [
 					{
 						"url": "https://passageenseine.fr/",
@@ -648,7 +649,7 @@
 					{
 						"url": "https://live.passageenseine.fr/",
 						"title": "Streaming"
-					},
+					}
 				]
 			}
 		}
